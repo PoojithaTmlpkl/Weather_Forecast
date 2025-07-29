@@ -14,9 +14,6 @@ This project is a simple weather forecast website built using HTML, CSS, and Jav
 - **JavaScript:** Implemented functionality for fetching weather data from a weather API and dynamically updating the webpage.
 
 
-![Screenshot 2024-03-24 224200](https://github.com/PoojithaTmlpkl/Weather_Forecast/![317606433-932f5749-f7d4-47cd-9498-0ec8344fb515](https://github.com/user-attachments/assets/44968ab8-dff3-4046-8ca0-67e941c2581d)
-)
-
 
 # Go Live
 
